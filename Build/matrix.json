@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "matrix.data.unityweb",
+"asmCodeUrl": "matrix.asm.code.unityweb",
+"asmMemoryUrl": "matrix.asm.memory.unityweb",
+"asmFrameworkUrl": "matrix.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
